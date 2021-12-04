@@ -1,2 +1,0 @@
-# spartanen
-responsive website
